@@ -1,0 +1,1 @@
+In this lab, we analyze the 2008–2010 CMS Data DE-SynPUF to investigate Medicare beneficiaries’ coverage, hospitalizations, and follow-up care. Using the inpatient, outpatient, and beneficiary summary files, I assessed full Part A and B coverage across years, identify hospitalizations for suicidal ideation, and evaluated outpatient visit patterns and 30-day readmissions.
